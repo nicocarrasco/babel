@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/ressources">
+        <file>images/phone-call.png</file>
+        <file>images/phone-hang-up.png</file>
+    </qresource>
+</RCC>
