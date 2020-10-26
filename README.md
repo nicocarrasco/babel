@@ -29,4 +29,4 @@ mkdir build && cd build && conan install --build=missing .. && cmake .. -G "Unix
 
 1.Executer ./bin/babel_serv <port>
 
-2.Executer ./bin/babel_client <ip_adress_of_babel_server>
+2.Executer ./bin/babel_client <ip_adress_of_babel_server> <port>
